@@ -1,4 +1,4 @@
-## Create sqlite3 databse with knex.js
+## Create sqlite3 database with knex.js
 
 Use node, express, knex and sqlite3 to create api.
 
