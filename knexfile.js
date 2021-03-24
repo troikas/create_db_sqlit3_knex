@@ -20,6 +20,7 @@ module.exports = {
             min: 2,
             max: 10,
         },
+        sslmode: 'require',
         migrations: {
             tablename: 'knex_migrations',
             directory: './migrations',
